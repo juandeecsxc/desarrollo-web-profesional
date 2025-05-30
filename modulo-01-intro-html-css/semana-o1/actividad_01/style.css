@@ -6,8 +6,8 @@ body {
 
 .fortaleza {
   display: flex;
-  height: 100vh;
-  width: 100vw;
+  height: 200vh;
+  width: 300vw;
   border: 10px solid #ae0000;
   box-sizing: border-box;
 }
