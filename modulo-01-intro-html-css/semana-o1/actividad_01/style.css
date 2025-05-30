@@ -1,0 +1,42 @@
+body {
+  background: #fa0000;
+  margin: 0;
+  padding: 0;
+}
+
+.fortaleza {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  border: 10px solid #010321;
+  box-sizing: border-box;
+}
+
+.torre,
+.torre-final {
+  background: #6707f7;
+  width: 120px;
+}
+
+.muralla-central {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #f40000;
+}
+
+.pared {
+  height: 30%;
+  width: 100%;
+  background: #00bfff;
+}
+
+.ventana {
+  height: 20%;
+  width: 60px;
+  background: #04d300;
+  background-color: #e80000;
+  display: block;
+}
