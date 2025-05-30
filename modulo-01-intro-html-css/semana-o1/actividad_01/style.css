@@ -9,6 +9,9 @@ body {
   height: 200vh;
   width: 300vw;
   border: 10px solid #ae0000;
+  background: #000;
+  position: relative;
+  z-index: 1;
   box-sizing: border-box;
   position: relative;
   overflow: hidden;
