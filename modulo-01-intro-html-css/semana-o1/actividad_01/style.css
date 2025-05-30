@@ -1,5 +1,5 @@
 body {
-  background: #01ff62;
+  background: #080808;
   margin: 0;
   padding: 0;
 }
@@ -10,6 +10,8 @@ body {
   width: 300vw;
   border: 10px solid #ae0000;
   box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
 }
 
 .torre,
